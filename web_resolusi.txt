@@ -1,2 +1,9 @@
 WEB RESOLUSI
 -Konsisten develop apps 2x seminggu
+-Kuasai Front End
+--HTML
+--CSS
+--JS
+-Kuasai Back End
+--PHP
+-Kuasai Laravel
